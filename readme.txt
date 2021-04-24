@@ -4,5 +4,4 @@ smth smth
 3rd change
 1st change in feature123
 2nd change in new feature123
-3rd change in feature
-I have a problem
+conflict creation
